@@ -1,0 +1,11 @@
+.child {
+    display: flex;
+    border: 2px solid black;
+    width: 300px;
+    border-radius: 10px;
+    margin: 0 auto 20px;
+}
+img {
+    width: 100px;
+    height: 80px;
+}
